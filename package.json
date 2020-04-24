@@ -1,0 +1,25 @@
+{
+  "name": "notetakerhw",
+  "version": "1.0.0",
+  "description": "hw 11",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatimaromagnoli/notetakerhw.git"
+  },
+  "keywords": [
+    "hw11"
+  ],
+  "author": "fatima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatimaromagnoli/notetakerhw/issues"
+  },
+  "homepage": "https://github.com/fatimaromagnoli/notetakerhw#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
